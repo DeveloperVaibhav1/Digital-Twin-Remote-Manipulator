@@ -42,7 +42,7 @@ Camera → Hand Tracking → Mapping → WiFi → ESP32 → Motors → Arm
 **Hardware:**
 
 * ESP32
-* Stepper Motors
+* Servo Motors
 * Motor Driver
 
 ---
